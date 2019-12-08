@@ -1,2 +1,2 @@
-# web-framework
-Repository For Web Framework Course
+# Proyek Teknologi Informasi
+Repository For PTI Course
